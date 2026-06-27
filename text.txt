@@ -1,0 +1,223 @@
+1. Hero
+
+Gran imagen a pantalla completa.
+
+Título
+
+SABOR QUE CREA RECUERDOS
+
+Texto
+
+Cafés de especialidad, tapas artesanales y dulces elaborados con cariño en el corazón de Lalín.
+
+Botones
+
+Ver nuestra carta
+Encargar una tarta
+
+Pequeño sello lateral:
+
+Hecho con amor desde el primer día.
+
+2. Barra de acceso rápido
+
+Cinco tarjetas horizontales.
+
+☕ Tus recuerdos
+
+Momentos que permanecen para siempre.
+
+🚚 A domicilio
+
+Llevamos Doce Arte hasta tu puerta.
+
+🎂 Encargos
+
+Tartas únicas para cada celebración.
+
+🕒 Horarios
+
+Abiertos todos los días excepto los jueves.
+
+📍 Ubicación
+
+Rúa Joaquín Loriga, 1 · Lalín
+
+3. Nuestra historia
+
+Imagen grande del local.
+
+Título
+
+Un rincón para quedarse
+
+Subtítulo
+
+Donde cada visita se convierte en un recuerdo.
+
+Texto:
+
+No somos solo una cafetería. Somos ese lugar donde los desayunos empiezan despacio, las conversaciones se alargan y cada celebración encuentra su sabor.
+
+Aquí el café se sirve con calma, los dulces se elaboran de forma artesanal y cada detalle está pensado para que quieras volver.
+
+Botón:
+
+Descubre nuestra historia.
+
+4. Nuestras especialidades
+
+Cinco imágenes grandes.
+
+Cafés
+
+Aromas intensos para empezar el día.
+
+Dulces
+
+Tartas, pasteles y postres recién elaborados.
+
+Tapas
+
+Pequeños bocados llenos de sabor.
+
+Encargos
+
+Celebraciones hechas a medida.
+
+Bebidas
+
+Frappés, smoothies, chocolates y mucho más.
+
+5. Galería
+
+Título:
+
+Delicias que enamoran
+
+Una cuadrícula con fotografías grandes.
+
+café
+cheesecake
+croquetas
+tarta
+helados
+gofres
+tostadas
+batidos
+
+Sin texto.
+
+Solo imágenes.
+
+6. Encargos personalizados
+
+Imagen enorme de una tarta.
+
+Título:
+
+Cada celebración merece algo especial.
+
+Texto:
+
+Diseñamos tartas personalizadas para cumpleaños, bautizos, aniversarios y cualquier ocasión que quieras recordar.
+
+Botón
+
+Encargar por WhatsApp.
+
+7. A domicilio
+
+Fondo oscuro.
+
+Imagen de una bolsa para llevar.
+
+Título
+
+¿Prefieres disfrutar de Doce Arte en casa?
+
+Texto
+
+Pide cómodamente desde la aplicación Levar o escríbenos por WhatsApp.
+
+Dos botones
+
+Pedir con Levar
+WhatsApp
+8. Opiniones
+
+Título
+
+Lo que dicen nuestros clientes.
+
+Tres tarjetas con reseñas.
+
+⭐⭐⭐⭐⭐
+
+"Café excelente y trato increíble."
+
+⭐⭐⭐⭐⭐
+
+"Las mejores tartas de Lalín."
+
+⭐⭐⭐⭐⭐
+
+"Siempre volvemos."
+
+9. Encuéntranos
+
+Dos columnas.
+
+Izquierda.
+
+Información.
+
+Doce Arte
+
+Rúa Joaquín Loriga, 1
+
+36500 Lalín
+
+📞 642 100 782
+
+📧 contacto@...
+
+Horario.
+
+Redes sociales.
+
+Derecha.
+
+Mapa integrado.
+
+10. Newsletter
+
+Fondo crema.
+
+Título.
+
+No te pierdas nuestras novedades.
+
+Caja para escribir el correo.
+
+Botón
+
+Suscribirme.
+
+11. Footer
+
+Logo.
+
+"Café, tapas y recuerdos."
+
+Enlaces.
+
+Inicio
+Carta
+Encargos
+A domicilio
+Contacto
+
+Redes sociales.
+
+Copyright.
